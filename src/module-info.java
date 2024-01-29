@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SKD
+ *
+ */
+module BasicJava {
+}
